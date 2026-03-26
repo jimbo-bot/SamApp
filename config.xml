@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.salims.samapp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    
+    <!-- App name -->
+    <name>sam App</name>
+    
+    <!-- Description (optional) -->
+    <description>
+        sam App - video to animation container
+    </description>
+
+    <!-- Author info -->
+    <author email="your-email@example.com" href="https://github.com/YOUR_USERNAME">
+        Salim Jimbo
+    </author>
+
+    <!-- Android platform settings -->
+    <platform name="android">
+        <!-- App icon -->
+        <icon src="res/sam.png" />
+        
+        <!-- Splash screen placeholder -->
+        <splash src="res/sam.png" />
+    </platform>
+
+    <!-- Preferences (optional, you can customize later) -->
+    <preference name="Fullscreen" value="true" />
+    <preference name="Orientation" value="portrait" />
+    
+</widget>
